@@ -1,0 +1,10 @@
+# To run React app
+npm start
+
+# To run the backend
+python app.py
+
+# To initialize the database
+flask init-db
+
+
